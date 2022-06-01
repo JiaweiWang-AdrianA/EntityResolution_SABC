@@ -5,10 +5,6 @@
 |-datasets
     |-Y_Moniter
     |-Y_Moniter_labels.csv
-    |-Y_Notebook
-    |-Y_Notebook_labels.csv
-    |-X_Camara (including the unlabelled data)
-    |-Y_Camara_labels.csv
 |-brands
     |-Brands_Moniter.json
     |-Brands_Notebook.json
